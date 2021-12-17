@@ -7,7 +7,7 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* ```https://github.com/kodinets/transfer/issues/1#issue-1077474882```
+* https://github.com/kodinets/transfer/issues/1#issue-1077474882
 
 ## Описание процесса тестирования
 
